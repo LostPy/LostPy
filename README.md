@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Autodidacte en programmation, j'utilise principalement le langage ✨ Python ✨.
+Autodidacte en programmation, j'utilise principalement le langage ✨ Python ✨.  
 Je développe essentiellement des packages Python, et de temps en temps des applications Qt.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LostPy&layout=compact)
