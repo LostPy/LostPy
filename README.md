@@ -19,8 +19,8 @@ Autodidacte en programmation, j'utilise principalement le langage ✨ Python ✨
 Je développe essentiellement des packages Python, et de temps en temps des applications Qt.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LostPy&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LostPy&show_icons=true&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LostPy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="right" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LostPy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
