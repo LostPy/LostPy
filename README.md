@@ -10,7 +10,7 @@ J'ai également un petit site où je présente mes projets et quelque tutoriel :
 
 ### Principaux projets
 
- * Une simulation de colonie de fourmie [en Python](https://gitlab.com/lostpy/pygaco) à l'aide du package [arcade](https://api.arcade.academy/en/latest/get_started.html).
+ * Une simulation de colonie de fourmie [en Python](https://gitlab.com/lostpy/pygaco) à l'aide du package [arcade](https://api.arcade.academy/en/latest/get_started.html) et [en Rust](https://gitlab.com/lostpy/rust-ant-simulator) à l'aide de [macroquad](https://crates.io/crates/macroquad).
  * Un package Python pour Qt5 (PyQt5 et PySide2) et Qt6 (PySide6) regroupant [mes widgets utiles](https://gitlab.com/LostPy/qtcustomwidgets).
  * [Un driver](https://gitlab.com/LostPy/seven-segments-driver) [`embedded-hal`](https://crates.io/crates/embedded-hal) pour faciliter l'utilisation d'afficheur 7-segments.
  * Un Package Python pour [réaliser des simulations rapidement avec Qt](https://gitlab.com/LostPy/qpysimu). Je prévois de l'améliorer suite à mon expérience avec [arcade](https://api.arcade.academy/en/latest/get_started.html).
