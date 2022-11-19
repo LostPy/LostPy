@@ -4,7 +4,7 @@ Autodidacte en programmation depuis plusieurs années maintenant j'utilise princ
 
 Je réalise essentiellement des packages Python / Rust, des programmes sur microcontrolleur (en Rust sur stm32 et Arduino), des simulations ainsi que de temps en temps des applications Qt (en Python).
 
-Vous trouverez la plupart des mes projets sur [GitLab](https://gitlab.com/lostpy).
+Vous trouverez la plupart de mes projets sur [GitLab](https://gitlab.com/lostpy).
 
 J'ai également un petit site où je présente mes projets et quelque tutoriel : https://lostpy.gitlab.io/.
 
